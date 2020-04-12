@@ -1,0 +1,12 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\src",
+    "\\src\\actions",
+    "\\src\\components",
+    "\\src\\reducers",
+    "\\src\\util"
+  ],
+  "SelectedNode": "\\src\\components\\SongList.js",
+  "PreviewInSolutionExplorer": false
+}
